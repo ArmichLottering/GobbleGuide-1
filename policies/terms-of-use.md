@@ -1,7 +1,7 @@
 # Gobble Guide – Terms of Use
 
-**Last updated:** 14/11/2025
-**Effective date:** 14/11/2025
+**Last updated:** 16/10/2026
+**Effective date:** 16/10/2026
 
 Welcome to **Gobble Guide** (“the App”). Gobble Guide is a user-generated content (UGC) mobile application that allows users to create, upload, share, and interact with recipe posts. By downloading, accessing, or using the App, you agree to these **Terms of Use** (“Terms”).  
 If you do not agree to these Terms, please do not use the App.
@@ -66,7 +66,19 @@ We reserve the right (but are not obligated) to:
 - Review, moderate, or remove Content that violates these Terms or platform policies.  
 - Suspend or terminate accounts that repeatedly violate rules.
 
-Content moderation may be automated, manual, or both.
+Content moderation may be automated, manual, or both. Our [Community Guidelines](/policies/community-guidelines.html) form part of these Terms.
+
+### 3.5 Importing Content From Other Sources
+
+The App lets you import recipes from links and from photos or screenshots. When you import, you confirm that:
+
+- You have the right to copy, adapt and use the material, or your use is permitted by law (for example, personal use of recipe text).
+- You will not post imported material that infringes someone else's copyright or other rights. Imported content is your Content under these Terms and you are responsible for it.
+- Your use of the source websites and platforms (such as YouTube, TikTok, Instagram and Pinterest) complies with their terms.
+
+Gobble Guide is not affiliated with, endorsed by, or sponsored by those platforms. We do not guarantee that imports from any site or platform will work or continue to work.
+
+If you believe content in the App infringes your rights, contact **dev@gobbleguideapp.com** with the details, including a link to the content, and we will review it and remove it where appropriate.
 
 ---
 
@@ -104,11 +116,13 @@ By using the App, you agree to our Privacy Policy.
 
 ## 7. In-App Purchases & Subscriptions (If Applicable)
 
-Some features may be offered as paid subscriptions or in-app purchases. By making a purchase:
+Some features require a paid subscription ("Premium"). Billing is handled by the Apple App Store or Google Play, and our subscriptions are processed through RevenueCat.
 
-- All billing is handled by Google Play or the Apple App Store.  
-- Refunds follow the policies of the platform and not Gobble Guide.  
-- Subscription cancellations must be done through your device’s subscription settings.
+- **Free trial:** New eligible users may be offered a free trial of 30 days. Unless you cancel at least 24 hours before the trial ends, your subscription converts to a paid subscription at the price shown at purchase.
+- **Renewal:** Subscriptions renew automatically at the end of each period until cancelled. Your account is charged within 24 hours before renewal.
+- **Cancellation:** Manage or cancel in your App Store or Google Play subscription settings. Deleting the App or your account does not cancel a subscription.
+- **Refunds:** Refunds are handled by Apple or Google under their policies.
+- **Price changes:** We may change prices, and will give notice as required by the store.
 
 ---
 
@@ -119,13 +133,37 @@ Gobble Guide may integrate with third-party services such as:
 - Firebase  
 - Analytics tools  
 - Payment processors (e.g., Google Play Billing, Apple In-App Purchases, RevenueCat)
+- Google Gemini (AI import), Google ML Kit (on-device text recognition), Expo (push notifications), Resend (email) and the platforms you import from. We are not responsible for their services, availability or content.
+
 
 Each third-party service has its own terms and privacy policy.  
 We are not responsible for the content or practices of third-party services.
 
 ---
+## 9. AI Features and Imported Recipes
 
-## 9. App Availability & Disclaimer
+Some features use artificial intelligence, including **Direct import**, which uses Google Gemini to turn recipe text into a structured recipe. You can also use your own AI assistant by copying a prompt from the App.
+
+- **Outputs may be wrong.** AI-generated or converted recipes can contain errors in ingredients, quantities, units, steps, cooking times or temperatures, and may omit or misstate allergens.
+- **You must check before you rely on a recipe.** Review every imported recipe, especially for allergies, dietary needs and food safety, before cooking or sharing it.
+- **No professional advice.** Imported or AI-generated content is not medical, nutritional or food-safety advice.
+- **Your own AI assistant.** If you use a third-party AI assistant, its terms and privacy policy apply, and we are not responsible for its output.
+- How we handle the data sent for Direct import is described in our [Privacy Policy](/policies/privacy-policy.html).
+
+---
+
+## 10. Plan Limits and Fair Use
+
+Free and Premium accounts have different limits. At the time of writing, free accounts can use up to **5 Direct imports per week** (resetting each Monday at 00:00 UTC) and add up to **10 meals per week** to the meal planner, while Premium accounts have no limit on Direct imports.
+
+- Limits are checked on our servers and can change. We will update these Terms or the App when they do.
+- A Direct import only counts toward your limit when it succeeds.
+- You must not try to bypass limits, automate imports, or use the import feature to scrape or bulk-copy content from other sites.
+- We may restrict or suspend import access for abuse or to protect the service.
+
+---
+
+## 11. App Availability & Disclaimer
 
 Gobble Guide is provided **“as is”** and **“as available.”**
 
@@ -139,7 +177,7 @@ You use the App at your own risk.
 
 ---
 
-## 10. Limitation of Liability
+## 12. Limitation of Liability
 
 To the maximum extent permitted by law, Gobble Guide and its creators are **not liable** for:
 
@@ -147,10 +185,11 @@ To the maximum extent permitted by law, Gobble Guide and its creators are **not 
 - Any injury, damage, or loss caused by recipes or food preparation.  
 - Data loss, security breaches, or unauthorized access.  
 - Use or inability to use the App.
+- Errors or omissions in imported or AI-generated recipes, including allergen, nutrition, or food-safety information.
 
 ---
 
-## 11. Termination
+## 13. Termination
 
 We may suspend or permanently terminate your access if:
 
@@ -162,7 +201,7 @@ You may stop using the App at any time.
 
 ---
 
-## 12. Changes to the Terms
+## 14. Changes to the Terms
 
 We may update these Terms from time to time. When changes are made:
 
@@ -171,7 +210,7 @@ We may update these Terms from time to time. When changes are made:
 
 ---
 
-## 13. Contact Information
+## 15. Contact Information
 
 If you have any questions about these Terms, you can contact us at:  
 **dev@gobbleguideapp.com**
